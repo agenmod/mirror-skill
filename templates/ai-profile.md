@@ -1,6 +1,6 @@
 # 关于我
 
-> 本文件由 Mirror.skill 从 AI 对话记录中自动生成。
+> 本文件由 老己.skill (Mirror) 从 AI 对话记录中自动生成。
 > 可直接粘贴给新 AI 作为 System Prompt / Custom Instructions。
 > 生成时间：{{DATE}}
 
